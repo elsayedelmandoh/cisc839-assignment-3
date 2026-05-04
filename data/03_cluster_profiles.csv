@@ -1,0 +1,5 @@
+cluster,n,pct,time_to_merge_hours_median,time_to_merge_hours_min,time_to_merge_hours_max,n_formal_reviews_median,n_formal_reviews_min,n_formal_reviews_max,n_review_comments_median,n_review_comments_min,n_review_comments_max,n_unique_reviewers_median,n_unique_reviewers_min,n_unique_reviewers_max,churn_per_review_cycle_median,churn_per_review_cycle_min,churn_per_review_cycle_max
+0,1292,5.7272042200452145,23.71472222222222,0.0038888888888888888,1797.6983333333333,5.0,1,30,5.0,1,63,2.0,0,6,37.98214285714286,0.2857142857142857,2851.0
+1,8187,36.29150228290261,0.013333333333333334,0.0011111111111111111,123.5586111111111,0.0,0,3,0.0,0,4,0.0,0,1,16.0,0.0,54.5
+2,2974,13.183208475552995,4.4759722222222225,0.001388888888888889,1776.5769444444445,1.0,0,19,0.0,0,4,1.0,0,5,41.25,0.0,3107.0
+3,10106,44.79808502149918,0.018333333333333333,0.001388888888888889,575.7125,0.0,0,5,0.0,0,7,0.0,0,1,165.0,43.0,3123.0

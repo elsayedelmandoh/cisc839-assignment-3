@@ -1,24 +1,24 @@
-# environment
-.env
-.venv/
-venv/
+# # environment
+# .env
+# .venv/
+# venv/
 
-# python
-__pycache__/
-*.pyc
-*.pyo
-dist/
-*.egg-info/
+# # python
+# __pycache__/
+# *.pyc
+# *.pyo
+# dist/
+# *.egg-info/
 
-# ide
-.vscode/
-.idea/
-opencode.json
+# # ide
+# .vscode/
+# .idea/
+# opencode.json
 
-# data files (large parquet/csv -- download via 00-quickstart.ipynb)
-data/*.parquet
-data/*.csv
+# # data files (large parquet/csv -- download via 00-quickstart.ipynb)
+# data/*.parquet
+# data/*.csv
 
-# project internals
-docs/.internal/
-.ruff_cache/
+# # project internals
+# docs/.internal/
+# .ruff_cache/
